@@ -1,5 +1,5 @@
 ---
-title: "What I Learned From Solving Bandit (OverTheWire)"
+title: "Bandit Walkthrough (OverTheWire)"
 date: 2026-02-25
 categories: [CTF, Linux]
 tags: [Bandit, OverTheWire, SSH, Linux, Networking]
